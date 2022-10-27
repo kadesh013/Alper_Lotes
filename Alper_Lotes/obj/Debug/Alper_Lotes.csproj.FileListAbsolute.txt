@@ -1,0 +1,522 @@
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\bin\Debug\Alper_Lotes.exe.config
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\bin\Debug\Alper_Lotes.exe
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\bin\Debug\Alper_Lotes.pdb
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.exe
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.pdb
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.Frm_Menu_Principal.resources
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.Frm_Criar_Lote.resources
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\bin\Debug\System.Memory.dll
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\bin\Debug\ZstdNet.dll
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\bin\Debug\Google.Protobuf.pdb
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\bin\Debug\Google.Protobuf.xml
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\bin\Debug\MySql.Data.xml
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\bin\Debug\System.Memory.xml
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\source\repos\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.CopyComplete
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\Alper_Lotes.exe.config
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\Alper_Lotes.exe
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\Alper_Lotes.pdb
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\Google.Protobuf.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\MySql.Data.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\System.Buffers.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\System.Memory.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\ZstdNet.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\Google.Protobuf.pdb
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\Google.Protobuf.xml
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\MySql.Data.xml
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\System.Buffers.xml
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\System.Memory.xml
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.AssemblyReference.cache
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.Frm_Menu_Principal.resources
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.Frm_Criar_Lote.resources
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.Properties.Resources.resources
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.GenerateResource.cache
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.CopyComplete
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.exe
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.pdb
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\itextsharp.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\itextsharp.xml
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.Frm_Visualizar_Lote.resources
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\MySqlConnector.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\EnvDTE.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\stdole.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\MySqlConnector.xml
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\Alper_Lotes.exe.config
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\Alper_Lotes.exe
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\Alper_Lotes.pdb
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\Google.Protobuf.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\itextsharp.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\MySql.Data.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\MySqlConnector.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\System.Buffers.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\System.Memory.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\ZstdNet.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\EnvDTE.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\stdole.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\Google.Protobuf.pdb
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\Google.Protobuf.xml
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\itextsharp.xml
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\MySql.Data.xml
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\MySqlConnector.xml
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\System.Buffers.xml
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\System.Memory.xml
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.AssemblyReference.cache
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\obj\Debug\Alper_Lotes.Frm_Menu_Principal.resources
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\obj\Debug\Alper_Lotes.Frm_Criar_Lote.resources
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\obj\Debug\Alper_Lotes.Frm_Visualizar_Lote.resources
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\obj\Debug\Alper_Lotes.Properties.Resources.resources
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.GenerateResource.cache
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.CopyComplete
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\obj\Debug\Alper_Lotes.exe
+C:\Users\Paulo\Desktop\Alper_Lotes - Copia\Alper_Lotes\obj\Debug\Alper_Lotes.pdb
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\Alper_Lotes.exe.config
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\Alper_Lotes.exe
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\Alper_Lotes.pdb
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\Google.Protobuf.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\itextsharp.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\MySql.Data.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\MySqlConnector.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\System.Buffers.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\System.Memory.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\ZstdNet.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\EnvDTE.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\stdole.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\Google.Protobuf.pdb
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\Google.Protobuf.xml
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\itextsharp.xml
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\MySql.Data.xml
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\MySqlConnector.xml
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\System.Buffers.xml
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\System.Memory.xml
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.Frm_Menu_Principal.resources
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.Frm_Criar_Lote.resources
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.Frm_Visualizar_Lote.resources
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.Properties.Resources.resources
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.GenerateResource.cache
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.CopyComplete
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.exe
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.pdb
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.Frm_Loading.resources
+C:\Users\Paulo\Documents\Lotes\Alper_Lotes\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.Frm_Login.resources
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\Alper_Lotes.exe.config
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\Alper_Lotes.exe
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\Alper_Lotes.pdb
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\Google.Protobuf.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\itextsharp.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\MySql.Data.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\MySqlConnector.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\System.Buffers.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\System.Memory.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\System.Numerics.Vectors.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\ZstdNet.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\EnvDTE.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\stdole.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\Google.Protobuf.pdb
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\Google.Protobuf.xml
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\itextsharp.xml
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Compression.LZ4.xml
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Hash.xxHash.xml
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\MySql.Data.xml
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\MySqlConnector.xml
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\System.Buffers.xml
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\System.Memory.xml
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\System.Numerics.Vectors.xml
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.AssemblyReference.cache
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.SuggestedBindingRedirects.cache
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.Frm_Loading.resources
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.Frm_Login.resources
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.Frm_Menu_Principal.resources
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.Frm_Criar_Lote.resources
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.Frm_Visualizar_Lote.resources
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.Properties.Resources.resources
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.GenerateResource.cache
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.CoreCompileInputs.cache
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.CopyComplete
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.exe
+C:\Alper BKP\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.pdb
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\Alper_Lotes.exe.config
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\Alper_Lotes.exe
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\Alper_Lotes.pdb
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\Google.Protobuf.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\itextsharp.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\MySql.Data.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\MySqlConnector.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\System.Buffers.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\System.Memory.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\System.Numerics.Vectors.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\ZstdNet.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\EnvDTE.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\stdole.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\Google.Protobuf.pdb
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\Google.Protobuf.xml
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\itextsharp.xml
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Compression.LZ4.xml
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\K4os.Hash.xxHash.xml
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\MySql.Data.xml
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\MySqlConnector.xml
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\System.Buffers.xml
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\System.Memory.xml
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\System.Numerics.Vectors.xml
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Server\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.AssemblyReference.cache
+C:\Server\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.SuggestedBindingRedirects.cache
+C:\Server\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.Frm_Loading.resources
+C:\Server\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.Frm_Login.resources
+C:\Server\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.Frm_Menu_Principal.resources
+C:\Server\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.Frm_Criar_Lote.resources
+C:\Server\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.Frm_Visualizar_Lote.resources
+C:\Server\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.Properties.Resources.resources
+C:\Server\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.GenerateResource.cache
+C:\Server\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.CoreCompileInputs.cache
+C:\Server\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.csproj.CopyComplete
+C:\Server\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.exe
+C:\Server\Alper_Lotes\Alper_Lotes\obj\Debug\Alper_Lotes.pdb
